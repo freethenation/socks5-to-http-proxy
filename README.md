@@ -1,6 +1,6 @@
 # Socks Proxy to Http Proxy
 
-This repo contains a small command line tool which will expose a socks5 proxy locally forwarding its traffic to a remote HTTP proxy or [Firefox Private Network](https://fpn.firefox.com/).
+This repo contains a small command line tool which will expose a socks5 proxy locally forwarding its traffic to a remote HTTP proxy.
 
 ## Usage
 
